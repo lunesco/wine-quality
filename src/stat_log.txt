@@ -1,0 +1,71 @@
+___Czerwony___(10klas):
+Duration times of model fitting:
+	LinRegModel           : 0.0
+	LogRegModel           : 0.015591144561767578
+	SVMModel              : 0.0468904972076416
+	RandomForestModel     : 1.0935213565826416
+Model errors:
+	LinRegModel           : MAE =   0.5875  MSE =    0.725  SCORE = 0.478125
+	LogRegModel           : MAE =   0.4062  MSE =   0.4813  SCORE = 0.63125
+	SVMModel              : MAE =   0.4125  MSE =   0.5188  SCORE = 0.640625
+	RandomForestModel     : MAE =    0.575  MSE =   0.7188  SCORE = 0.490625
+
+___Bialy___(10klas):
+Duration times of model fitting:
+	LinRegModel           : 0.0
+	LogRegModel           : 0.010007143020629883
+	SVMModel              : 0.6815965175628662
+	RandomForestModel     : 3.200002431869507
+
+Model errors:
+	LinRegModel           : MAE =    0.501  MSE =   0.6541  SCORE = 0.5663265306122449
+	LogRegModel           : MAE =   0.4214  MSE =   0.4745  SCORE = 0.6040816326530613
+	SVMModel              : MAE =   0.4449  MSE =   0.5143  SCORE = 0.5877551020408164
+	RandomForestModel     : MAE =   0.5153  MSE =   0.6235  SCORE = 0.5377551020408163
+
+__OBA__(3klasy):
+Duration times of model fitting:
+	LinRegModel           : 0.0
+	LogRegModel           : 0.015594244003295898
+	SVMModel              : 0.1249699592590332
+	RandomForestModel     : 0.8591458797454834
+
+Model errors:
+	LinRegModel           : MAE =   0.1931  MSE =   0.2069  SCORE = 0.8138461538461539
+	LogRegModel           : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	SVMModel              : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	RandomForestModel     : MAE =  0.02462  MSE =  0.02462  SCORE = 0.9753846153846154
+
+__OBA__(10klas):
+Duration times of model fitting:
+	LinRegModel           : 0.0
+	LogRegModel           : 0.03126978874206543
+	SVMModel              : 1.3590571880340576
+	RandomForestModel     : 3.0149176120758057
+
+Model errors:
+	LinRegModel           : MAE =   0.5546  MSE =   0.7146  SCORE = 0.5176923076923077
+	LogRegModel           : MAE =   0.4862  MSE =   0.5969  SCORE = 0.5623076923076923
+	SVMModel              : MAE =   0.4377  MSE =   0.5223  SCORE = 0.6030769230769231
+	RandomForestModel     : MAE =   0.5492  MSE =   0.7015  SCORE = 0.5161538461538462
+Duration times of model fitting:
+	LinRegModel           : 0.015620946884155273
+	LogRegModel           : 0.01562190055847168
+	SVMModel              : 0.1249701976776123
+	RandomForestModel     : 0.8123047351837158
+
+Model errors:
+	LinRegModel           : MAE =   0.1931  MSE =   0.2069  SCORE = 0.8138461538461539
+	LogRegModel           : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	SVMModel              : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	RandomForestModel     : MAE =  0.02462  MSE =  0.02462  SCORE = 0.9753846153846154
+Model errors:
+	LinRegModel           : MAE =   0.1931  MSE =   0.2069  SCORE = 0.8138461538461539
+	LogRegModel           : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	SVMModel              : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	RandomForestModel     : MAE =  0.02462  MSE =  0.02462  SCORE = 0.9753846153846154
+Model errors:
+	LinRegModel           : MAE =   0.1931  MSE =   0.2069  SCORE = 0.8138461538461539
+	LogRegModel           : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	SVMModel              : MAE =  0.02231  MSE =  0.02231  SCORE = 0.9776923076923076
+	RandomForestModel     : MAE =  0.02462  MSE =  0.02462  SCORE = 0.9753846153846154

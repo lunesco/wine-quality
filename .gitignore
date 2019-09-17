@@ -1,0 +1,9 @@
+*ipynb
+*model
+*xml
+*iml
+*pyc
+src/.idea/workspace.xml
+src/.idea
+*ipynb*
+src/Models
